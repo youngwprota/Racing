@@ -1,0 +1,20 @@
+<svg width="44" height="54" viewBox="0 0 44 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Button/Icon/Locker">
+<g id="Button/Icon/Locker_2">
+<g id="Group">
+<rect id="Rectangle" x="11" y="7.00098" width="22" height="44" rx="11" stroke="#82648F" stroke-width="6"/>
+<rect id="Rectangle_2" y="45.001" width="44" height="9" rx="2" fill="#82648F"/>
+<path id="Exclude" fill-rule="evenodd" clip-rule="evenodd" d="M32 17.001V20.001H12V17.001C12 11.4781 16.4772 7.00098 22 7.00098C27.5228 7.00098 32 11.4781 32 17.001ZM5 20.001V17.001C5 7.61214 12.6112 0.000976562 22 0.000976562C31.3888 0.000976562 39 7.61214 39 17.001V20.001H42C43.1046 20.001 44 20.8964 44 22.001V50.001C44 51.1055 43.1046 52.001 42 52.001H2C0.895431 52.001 0 51.1055 0 50.001V22.001C0 20.8964 0.895431 20.001 2 20.001H5ZM25.2777 36.7769C26.3328 35.8602 27 34.5085 27 33.001C27 30.2396 24.7614 28.001 22 28.001C19.2386 28.001 17 30.2396 17 33.001C17 34.5085 17.6672 35.8602 18.7223 36.7769L18 44H26L25.2777 36.7769Z" fill="#E2E2FF"/>
+<g id="Union" style="mix-blend-mode:color">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33 17.001V20.001H11V17.001C11 10.9258 15.9249 6.00098 22 6.00098C28.0751 6.00098 33 10.9258 33 17.001ZM5 20.001V17.001C5 7.61214 12.6112 0.000976562 22 0.000976562C31.3888 0.000976562 39 7.61214 39 17.001V20.001H42C43.1046 20.001 44 20.8964 44 22.001V52.001C44 53.1055 43.1046 54.001 42 54.001H2C0.895431 54.001 0 53.1055 0 52.001V22.001C0 20.8964 0.895431 20.001 2 20.001H5Z" fill="url(#paint0_linear_884_42102)" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_884_42102" x1="22" y1="-2.82849" x2="22" y2="54.0009" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8677E2"/>
+<stop offset="1" stop-color="#F3AEEC"/>
+</linearGradient>
+</defs>
+</svg>
